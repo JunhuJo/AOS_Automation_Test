@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Appium 실패 스크린샷 (Try_Except 데코레이터가 저장)
+/*.png
+
+# 연습용 앱은 저장소에 올리지 않음 (로컬에만 보관)
+practice-app/
